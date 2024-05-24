@@ -1,5 +1,7 @@
 ###Css Topics
 
+------------------------------
+
 Day 1
 
 Percentage Vs FixedWidth
