@@ -20,3 +20,8 @@ Getting familiar with relative unit
 css rem and em 
 
 don't use font size using em
+
+------------------------------
+Day 3
+
+Max-width
