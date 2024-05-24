@@ -25,3 +25,6 @@ don't use font size using em
 Day 3
 
 Max-width
+
+Challenge 2 done ✅
+
